@@ -1,0 +1,19 @@
+
+
+.svg-container {
+    width: 97%;
+ 
+    margin: 0 auto;
+}  
+
+.svg-content {
+    width: 100%;
+    height: auto;
+  
+  }
+
+  .tableMargin{
+    margin: 40px auto;
+   /*  padding: 20px 0;
+    ; */
+}
